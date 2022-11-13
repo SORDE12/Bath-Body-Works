@@ -19,7 +19,7 @@ export const Navbar = () => {
                     <Image boxSize='40%' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dwd76d640f/images/svg-icons/Logos-main.svg?yocs=o_s_' alt='logo' />
                     <InputGroup>
                         <Input width={300} bg='#ffffff' fill='#666666' borderColor='#666666' placeholder='Search by fragrance or products...' size='sm' />
-                        {/* <InputRightElement pr='5%' pb='2%' children={<SearchIcon color='#1876a7' />} /> */}
+                        
                     </InputGroup>
                     <Link to='/login'> <Image boxSize='90%' mt='-15%' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw84b3ea83/images/svg-icons/UI-MyAccount.svg?yocs=o_s_' alt='icon' /></Link>
                     <Image boxSize='10' mt='-2' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1661507180191/images/svg-icons/UI-AddToBag.svg?yocs=o_s_' alt='cart' />
