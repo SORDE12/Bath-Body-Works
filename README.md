@@ -3,7 +3,18 @@
 
 <h1>Solo Project</h1>
 <h3>Bath And Body Works </h3>
-project link : https://lovely-sunflower-ef3dfa.netlify.app/
+
+Project link -> https://lovely-sunflower-ef3dfa.netlify.app/
+
+### In this project Tech stack used are
+
+1. HTML
+2. CSS
+3. Javascript
+4. Json-Server (Mock-Server)
+5. React
+8. Chakra UI
+
 
 
 <img src="https://play-lh.googleusercontent.com/wD02w_sFYhJy_4J_OIKUwhI399zMPJg52dbOoZqWGMvWAYJsk9TVAq_bbZAq_oawAg" alt="Pic">
