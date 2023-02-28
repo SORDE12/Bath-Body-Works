@@ -3,7 +3,9 @@
 
 <h1>Solo Project</h1>
 <h3>Bath And Body Works </h3>
-perkect link : https://lovely-sunflower-ef3dfa.netlify.app/
+project link : https://lovely-sunflower-ef3dfa.netlify.app/
+
+
 <img src="https://play-lh.googleusercontent.com/wD02w_sFYhJy_4J_OIKUwhI399zMPJg52dbOoZqWGMvWAYJsk9TVAq_bbZAq_oawAg" alt="Pic">
 
 <h4>Clone of a website named bath and body works using html chakra ui js react within 4days</h4>
