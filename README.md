@@ -16,6 +16,9 @@ Project link -> https://lovely-sunflower-ef3dfa.netlify.app/
 8. Chakra UI
 
 
+### In this project we have
+
+# 1. Home page 
 
 <img src="https://play-lh.googleusercontent.com/wD02w_sFYhJy_4J_OIKUwhI399zMPJg52dbOoZqWGMvWAYJsk9TVAq_bbZAq_oawAg" alt="Pic">
 
