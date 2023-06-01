@@ -4,15 +4,16 @@
 <h1>Solo Project</h1>
 <h3>Bath And Body Works </h3>
 
-Project link -> https://lovely-sunflower-ef3dfa.netlify.app/
+Project link -> https://fluffy-unicorn-713224.netlify.app/products
 
 ### In this project Tech stack used are
 
 1. HTML
 2. CSS
 3. Javascript
-4. Json-Server (Mock-Server)
+4. deploy json server to render
 5. React
+6. Redux
 8. Chakra UI
 
 
