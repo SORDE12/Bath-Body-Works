@@ -1,10 +1,9 @@
 
+# Body Care (E-commerce)
+Bindass is an scalable makeup E-commerce platform where the user can come and place their order. It is an solo project.
 
 
-<h1>Solo Project</h1>
-<h3>Bath And Body Works </h3>
-
-Project link -> https://fluffy-unicorn-713224.netlify.app/products
+Project link ->https://fluffy-unicorn-713224.netlify.app/
 
 ### In this project Tech stack used are
 
@@ -14,86 +13,32 @@ Project link -> https://fluffy-unicorn-713224.netlify.app/products
 4. deploy json server to render
 5. React
 6. Redux
-8. Chakra UI
+7. Chakra UI
 
 
 ### In this project we have
 
 # 1. Home page 
 
-<img src="https://play-lh.googleusercontent.com/wD02w_sFYhJy_4J_OIKUwhI399zMPJg52dbOoZqWGMvWAYJsk9TVAq_bbZAq_oawAg" alt="Pic">
+![home1](https://github.com/SORDE12/Bath-Body-Works/assets/108116297/d934d2fb-da0b-4ca2-b6e0-2c0f0c16cd7b)
 
-<h4>Clone of a website named bath and body works using html chakra ui js react within 4days</h4>
+![home2](https://github.com/SORDE12/Bath-Body-Works/assets/108116297/6ea7aa74-9a72-4984-afd1-600f1fc1fcb2)
 
-<img src="https://legacyplace.com/wp-content/uploads/sites/12/2021/04/BathAndBodyWorks_Feature.jpg" alt="Pic">
+![home3](https://github.com/SORDE12/Bath-Body-Works/assets/108116297/e210b995-cabc-4516-b5fc-f83d04cae0f5)
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 2. Product page 
 
-## Available Scripts
+![product1](https://github.com/SORDE12/Bath-Body-Works/assets/108116297/6258b70a-ab9f-4cca-a03e-2a1e637ee74e)
 
-In the project directory, you can run:
+# 3. Single Product page 
 
-### `npm start`
+![singleproduct](https://github.com/SORDE12/Bath-Body-Works/assets/108116297/bc692892-4a41-41d0-9e57-db5d42f89045)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 4. Signup page 
+![signup page](https://github.com/SORDE12/Bath-Body-Works/assets/108116297/63dd7582-d984-4575-8887-29e28a46c770)
+# 5. Cart page 
+![cart](https://github.com/SORDE12/Bath-Body-Works/assets/108116297/7220ce5a-91db-4382-a279-e56897b63eab)
+# 6. User Profile
+![user status](https://github.com/SORDE12/Bath-Body-Works/assets/108116297/28103a28-35ea-427d-a3ac-4f41eea54fac)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
